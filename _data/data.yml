@@ -81,25 +81,39 @@ education:
         
 
 experiences:
-    - role: Desarrollador
+    - role: Desarrollador iOS
+      time: 2017 - Actualmente
+      company: Facultad Ingenieria,UNAM
+      details: |
+        Colabore junto con el iOS Development Lab para la realización de diferentes aplicaciones para iOS,AppleTV y AppleWatch,de igual manera a impartir cursos de Swift.
+          - Swift
+          - Swift UI
+    - role: Desarrollador Java
       time: 2018 - 2019
       company: Tribunal Electoral de la Ciudad de México (TECDMX)
       details: |
         Desarrollamos un sistema para el llenado de los datos partiendo de consultas a una base de datos,dicho sistema se hizo en lenguaje JAVA.
           - Java
-    - role: Desarrollador
+    - role: Desarrollador iOS
       time: 2019 - 2019
       company: Instituto Nacional de la Infraestructura Física Educativa (INIFED)
       details: |
-        Desarrollamos un sistema para la gestion de la reconstrucción de escuelas destruidas por el sismo de México 2017,dicho sistema se hizo en lenguaje PHP.
+        Desarrollamos un sistema para la gestion de la reconstrucción de escuelas destruidas por el sismo de México 2017,dicho sistema se hizo en lenguaje PHP,junto con una aplicacion para iOS en lenguaje SWIFT.
           - PHP
-    - role: Desarrollador
-      time: 2020 - Actualmente
+          - Swift
+    - role: Desarrollador iOS
+      time: 2020 - 2020
       company: Freelance
       details: |
-        En estos momentos me encuentro colaborando con una empresa para desarrolar una aplicacion para la cotizacion de seguros.
-        -Swift
-        -Swift UI
+        Colabore con una empresa para desarrolar una aplicacion para la cotizacion de seguros.
+        - Swift
+        - Swift UI
+    - role: Desarrollador iOS
+      time: 2020 - Actualmente
+      company: Banco Azteca
+      details: |
+        Me encuentro en el equipo de Banco Azteca desarrollando una aplicacion para 3.5M de usuarios.
+        - Swift
 projects:
     title: Proyectos, Premios y Reconocimientos
     intro: >
